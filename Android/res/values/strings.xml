@@ -331,10 +331,12 @@
     <string name="permission_group_shou_label">Shou</string>
     <string name="permission_group_shou_description">Allows the app to record your screen or take screenshot. All your operations could be monitored, e.g. your keyboard, password, etc.</string>
     <string name="toast_account_kit_verify_phone_binding_phone_loading">Binding Phone &#8230;</string>
+    <string name="toast_account_kit_verify_email_loading">Verify email &#8230;</string>
     <string name="permission_storage_denied">Write storage file denied, please allow</string>
     <string name="permission_camera_denied">Camera permission denied, please allow</string>
     <string name="fragment_show_email_account_label_tip1">By verifying a new email address, %s will no longer be associated with your account.</string>
     <string name="fragment_show_email_account_label_tip2">Please confirm your email address. Your email address is used to log in and to secure your Shou account.</string>
+    <string name="fragment_show_email_account_email_change">Change Email Bind?</string>
     <string name="fragment_verify_label">open the email and enter your code, let us know this email belongs to you.</string>
     <string name="fragment_rating_continue">Continue</string>
     <string name="fragment_verify_re_send_code">Re-send Code</string>
@@ -522,4 +524,8 @@
     <string name="menu_content_stop_broadcast">Stop broadcast</string>
     <string name="action_done">Done</string>
     <string name="error_data">Error data</string>
+    <string name="fragment_change_email">We will send a verification code to %s</string>
+    <string name="fragment_change_email_message">Please enter the 4 digit verification code in next screen to verify your email.</string>
+    <string name="fragment_change_email_send">Send via Email</string>
+    <string name="fragment_change_email_cancel">Cancel</string>
 </resources>

@@ -261,6 +261,7 @@
     <string name="toast_textview_copy_clipboard">已复制到剪切板</string>
     <string name="fragment_show_email_account_label_tip1">验证新的电子邮箱后, %s 将不再与您的账户关联.</string>
     <string name="fragment_show_email_account_label_tip2">请确认您的电子邮箱地址. 您的电子邮箱地址将用于登录和保护 Shou 账户的安全.</string>
+    <string name="fragment_show_email_account_email_change">修改绑定邮箱？</string>
     <string name="fragment_verify_label">输入邮件中的验证码,让我们知道这个电子邮箱属于您.</string>
     <string name="fragment_verify_verify">验证</string>
     <string name="fragment_verify_re_send_code">重新发送验证码</string>
@@ -271,6 +272,7 @@
     <string name="fragment_show_email_account_email_label_verified">您的电子邮箱地址已验证 %s</string>
     <string name="activity_account_hint_phone">手机号</string>
     <string name="toast_account_kit_verify_phone_binding_phone_loading">正在绑定手机号&#8230;</string>
+    <string name="toast_account_kit_verify_email_loading">正在验证邮箱&#8230;</string>
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_error">AccountKit校验失败</string>
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_unknown_error">AccountKit校验出错</string>
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_success">绑定手机号成功!</string>
@@ -422,5 +424,9 @@
     <string name="fragment_app_broadcasts">直播</string>
     <string name="action_done">完成</string>
     <string name="error_data">数据错误</string>
+    <string name="fragment_change_email">发送验证码到%s</string>
+    <string name="fragment_change_email_message">请在下一个页面输入4位数字码</string>
+    <string name="fragment_change_email_send">发送验证码</string>
+    <string name="fragment_change_email_cancel">取消</string>
 </resources>
 
